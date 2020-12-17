@@ -17,4 +17,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/FPS/Scenes/WinScene.unity
     guid: 037d06fbede2b4041a843d9ee6fe750c
+  - enabled: 1
+    path: Assets/FPS/Scenes/SecondaryScene.unity
+    guid: cc9823c592b609747ae0a55f08559b0b
   m_configObjects: {}

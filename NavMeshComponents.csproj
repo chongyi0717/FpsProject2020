@@ -11,7 +11,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{6CD86F95-4CAD-E7FB-21ED-7FC728FB669D}</ProjectGuid>
+    <ProjectGuid>{5A8DD319-9381-5EF2-B2D9-7C51B436DFF1}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>NavMeshComponents</AssemblyName>
@@ -255,10 +255,10 @@
  <HintPath>C:/Unity/Hub/Editor/2019.3.15f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll</HintPath>
  </Reference>
  <Reference Include="System.IO.Compression.FileSystem">
- <HintPath>D:/C#/UnityProject2020/C#/project2020/Library/PackageCache/com.unity.connect.share@1.2.0-preview.1/Plugins/System.IO.Compression.FileSystem.dll</HintPath>
+ <HintPath>D:/C#/UnityProject2020/Library/PackageCache/com.unity.connect.share@1.2.0-preview.1/Plugins/System.IO.Compression.FileSystem.dll</HintPath>
  </Reference>
  <Reference Include="nunit.framework">
- <HintPath>D:/C#/UnityProject2020/C#/project2020/Library/PackageCache/com.unity.ext.nunit@1.0.5/net35/unity-custom/nunit.framework.dll</HintPath>
+ <HintPath>D:/C#/UnityProject2020/Library/PackageCache/com.unity.ext.nunit@1.0.5/net35/unity-custom/nunit.framework.dll</HintPath>
  </Reference>
  <Reference Include="netstandard">
  <HintPath>C:/Unity/Hub/Editor/2019.3.15f1/Editor/Data/NetStandard/ref/2.0.0/netstandard.dll</HintPath>
@@ -606,10 +606,10 @@
  <HintPath>C:/Unity/Hub/Editor/2019.3.15f1/Editor/Data/NetStandard/compat/2.0.0/shims/netfx/System.Xml.Serialization.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.UI">
- <HintPath>D:/C#/UnityProject2020/C#/project2020/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+ <HintPath>D:/C#/UnityProject2020/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.UI">
- <HintPath>D:/C#/UnityProject2020/C#/project2020/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+ <HintPath>D:/C#/UnityProject2020/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
  </Reference>
   </ItemGroup>
   <ItemGroup>

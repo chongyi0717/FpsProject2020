@@ -11,7 +11,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{12B86C37-5B20-3550-0650-367C579B86E3}</ProjectGuid>
+    <ProjectGuid>{E829646D-A039-4150-BAA1-E5308A043180}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>NavMeshComponentsEditor</AssemblyName>
@@ -257,10 +257,10 @@
  <HintPath>C:/Unity/Hub/Editor/2019.3.15f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll</HintPath>
  </Reference>
  <Reference Include="System.IO.Compression.FileSystem">
- <HintPath>D:/C#/UnityProject2020/C#/project2020/Library/PackageCache/com.unity.connect.share@1.2.0-preview.1/Plugins/System.IO.Compression.FileSystem.dll</HintPath>
+ <HintPath>D:/C#/UnityProject2020/Library/PackageCache/com.unity.connect.share@1.2.0-preview.1/Plugins/System.IO.Compression.FileSystem.dll</HintPath>
  </Reference>
  <Reference Include="nunit.framework">
- <HintPath>D:/C#/UnityProject2020/C#/project2020/Library/PackageCache/com.unity.ext.nunit@1.0.5/net35/unity-custom/nunit.framework.dll</HintPath>
+ <HintPath>D:/C#/UnityProject2020/Library/PackageCache/com.unity.ext.nunit@1.0.5/net35/unity-custom/nunit.framework.dll</HintPath>
  </Reference>
  <Reference Include="mscorlib">
  <HintPath>C:/Unity/Hub/Editor/2019.3.15f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/mscorlib.dll</HintPath>
@@ -617,21 +617,21 @@
  <HintPath>C:/Unity/Hub/Editor/2019.3.15f1/Editor/Data/MonoBleedingEdge/lib/mono/unityscript/Boo.Lang.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.UI">
- <HintPath>D:/C#/UnityProject2020/C#/project2020/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+ <HintPath>D:/C#/UnityProject2020/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.UI">
- <HintPath>D:/C#/UnityProject2020/C#/project2020/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+ <HintPath>D:/C#/UnityProject2020/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.TestRunner">
- <HintPath>D:/C#/UnityProject2020/C#/project2020/Library/ScriptAssemblies/UnityEditor.TestRunner.dll</HintPath>
+ <HintPath>D:/C#/UnityProject2020/Library/ScriptAssemblies/UnityEditor.TestRunner.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.TestRunner">
- <HintPath>D:/C#/UnityProject2020/C#/project2020/Library/ScriptAssemblies/UnityEngine.TestRunner.dll</HintPath>
+ <HintPath>D:/C#/UnityProject2020/Library/ScriptAssemblies/UnityEngine.TestRunner.dll</HintPath>
  </Reference>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="NavMeshComponents.csproj">
-      <Project>{6CD86F95-4CAD-E7FB-21ED-7FC728FB669D}</Project>
+      <Project>{5A8DD319-9381-5EF2-B2D9-7C51B436DFF1}</Project>
       <Name>NavMeshComponents</Name>
     </ProjectReference>
   </ItemGroup>
