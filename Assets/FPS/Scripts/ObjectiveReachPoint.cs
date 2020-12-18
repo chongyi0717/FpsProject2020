@@ -42,8 +42,8 @@ public class ObjectiveReachPoint : MonoBehaviour
 
 
             }
-        door.transform.position = new Vector3(5.575121f, 2.195581f, 14.44748f);
-        door.transform.eulerAngles = new Vector3(0.95f, 3.729f, 6.166f);
+        door.transform.position = new Vector3(5.3f, 2.227f, 14.615f);
+        door.transform.eulerAngles = new Vector3(1.14f, -8.858001f, -0.336f);
         }
     }
 }
